@@ -1,6 +1,11 @@
+This fork adds PCB and plate support for a DZ60-line split spacebar
+
+![image](https://user-images.githubusercontent.com/502777/156701968-f474311e-b94a-443a-bfcf-29f8886c2018.png)
+
 # Bakeneko 60 V3
 
 A simple 60% keyboard for DIYers. This project is a special homage to TGR x Singa UNIKORN 60 and OTD 356 Mini. See also the [introduction video](https://youtu.be/8zyG34YU3BY).
+
 
 ![Bakeneko 60](./image/bakeneko-60.jpg)
 
@@ -11,7 +16,7 @@ A simple 60% keyboard for DIYers. This project is a special homage to TGR x Sing
 - [Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard)
 - QMK firmware and VIA
 - Compatible with common 60% plates
-- PCB designed with KiCAD 5.1.4
+- PCB designed with KiCAD 5.1.4 (NOTE: split spacebar fork uses KiCAD 6)
 
 ## Layouts
 
