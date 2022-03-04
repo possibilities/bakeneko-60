@@ -6495,7 +6495,7 @@
   (gr_arc (start 230.044429 93.393548) (mid 229.492109 93.982638) (end 228.714395 94.2) (layer "Edge.Cuts") (width 0.2) (tstamp f5ea99c7-0452-4844-8c83-b38831e54ddc))
   (gr_line (start 284.7 91.95) (end 284.7 2.25) (layer "Edge.Cuts") (width 0.2) (tstamp fd0f017c-fd55-4c79-ae34-f9da7a319b38))
   (gr_arc (start 249.918072 0.806452) (mid 250.470392 0.217362) (end 251.248106 0) (layer "Edge.Cuts") (width 0.2) (tstamp febabea6-c0a8-40ad-8e8c-c23395c18640))
-  (gr_text "Bakeneko60 v3.0" (at 274.915477 91.907501) (layer "B.SilkS") (tstamp 199594f3-f2d0-48ce-a3f3-29f25c1e63d9)
+  (gr_text "Unbakeneko60 v0.1" (at 274.915477 91.907501) (layer "B.SilkS") (tstamp 199594f3-f2d0-48ce-a3f3-29f25c1e63d9)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
 
