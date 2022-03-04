@@ -2945,20 +2945,26 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497145"
       (reference "D58") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497136"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/9c3ad0d4-1b8b-48ea-b5a8-6d43efd67b6a"
       (reference "D59") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497115"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497136"
       (reference "D60") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497103"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/79597dda-e65e-4688-8699-52dfc07757e8"
       (reference "D61") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970f4"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497115"
       (reference "D62") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970e5"
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497103"
       (reference "D63") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970f4"
+      (reference "D64") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970e5"
+      (reference "D65") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005f2505eb"
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
@@ -3152,41 +3158,35 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49714b"
       (reference "MX61") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/d2926dca-4c6c-4c3b-b837-86df5f735f08"
+      (reference "MX62") (unit 1) (value "2.25") (footprint "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/e277b900-1779-4319-a049-b0a4e8745b32"
+      (reference "MX63") (unit 1) (value "2.75u") (footprint "MX_Only:MXOnly-7U-ReversedStabilizers-NoLED")
+    )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49713c"
-      (reference "MX62") (unit 1) (value "6.25u") (footprint "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49711b"
-      (reference "MX63") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49710c"
-      (reference "MX64") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970fa"
-      (reference "MX65") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970eb"
-      (reference "MX66") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f48b5b5"
-      (reference "MX67") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f48d3c5"
-      (reference "MX68") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f48e6e4"
-      (reference "MX69") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+      (reference "MX64") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f47830f"
-      (reference "MX70") (unit 1) (value "7u") (footprint "MX_Only:MXOnly-7U-ReversedStabilizers-NoLED")
+      (reference "MX65") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-7U-ReversedStabilizers-NoLED")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970b7"
-      (reference "MX71") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+    (path "/00000000-0000-0000-0000-00005f45b9b8/779161a0-a751-4fb5-aea3-136eb4b6a704"
+      (reference "MX66") (unit 1) (value "2.75u") (footprint "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f453977"
-      (reference "MX72") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+    (path "/00000000-0000-0000-0000-00005f45b9b8/f0b5a3be-47db-48b5-a948-09caedca84a2"
+      (reference "MX67") (unit 1) (value "2.25u") (footprint "MX_Only:MXOnly-7U-ReversedStabilizers-NoLED")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4551d0"
-      (reference "MX73") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49711b"
+      (reference "MX68") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49710c"
+      (reference "MX69") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970fa"
+      (reference "MX70") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970eb"
+      (reference "MX71") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f258c77"
       (reference "R1") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
