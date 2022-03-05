@@ -681,4 +681,5 @@
   (gr_arc (start 243.562 78.25) (mid 243.415553 78.603553) (end 243.062 78.75) (layer "Edge.Cuts") (width 0.2) (tstamp fe96060c-63d4-46e0-a0e3-515fe6bde1cc))
   (gr_line (start 252.58025 118.85) (end 258.58025 118.85) (layer "Edge.Cuts") (width 0.2) (tstamp ff42b5b9-653e-46b0-81ab-36da556cf5d0))
 
+  (via (at 271 72.3) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 0) (tstamp 3a60a063-0efa-471c-acea-29a6a9234100))
 )
