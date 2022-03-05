@@ -1,14 +1,14 @@
 This fork adds PCB and plate support for a DZ60-line split spacebar to the Bakeneko
 
-#### Layout
+#### Bottom row layouts
 
 ![image](layout.png)
 
-#### Left split plate
+#### Left split spacebar layout plate
 
 ![image](plate-left-split.png)
 
-#### Right split plate
+#### Right split spacebar layout plate
 
 ![image](plate-right-split.png)
 
