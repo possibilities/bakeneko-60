@@ -29,7 +29,21 @@
   )
 
   (setup
-    (pad_to_mask_clearance 0.05)
+    (stackup
+      (layer "F.SilkS" (type "Top Silk Screen"))
+      (layer "F.Paste" (type "Top Solder Paste"))
+      (layer "F.Mask" (type "Top Solder Mask") (thickness 0.01))
+      (layer "F.Cu" (type "copper") (thickness 0.035))
+      (layer "dielectric 1" (type "core") (thickness 1.51) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
+      (layer "B.Cu" (type "copper") (thickness 0.035))
+      (layer "B.Mask" (type "Bottom Solder Mask") (thickness 0.01))
+      (layer "B.Paste" (type "Bottom Solder Paste"))
+      (layer "B.SilkS" (type "Bottom Silk Screen"))
+      (copper_finish "None")
+      (dielectric_constraints no)
+    )
+    (pad_to_mask_clearance 0)
+    (aux_axis_origin -0.53625 94.74)
     (grid_origin 4.60375 43.18)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
@@ -2696,8 +2710,8 @@
       (net 72 "D+") (tstamp 522dff87-8907-4e19-9947-3268606b3128))
     (pad "4" smd roundrect locked (at 1.5 2 270) (size 0.6 1.55) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 1 "GND") (tstamp 3ac34c7d-51c3-4402-9b54-790cb5d98701))
-    (pad "MP" smd roundrect locked (at -2.8 -1.875 270) (size 1.2 1.8) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.208333) (tstamp 2c48dff5-b3c3-4ac1-b2b6-b8b660f4e129))
-    (pad "MP" smd roundrect locked (at 2.8 -1.875 270) (size 1.2 1.8) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.208333) (tstamp b6354f0e-05a3-431f-8609-adc74c5a5903))
+    (pad "MP" smd roundrect locked (at -2.8 -1.875 270) (size 1.2 1.8) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2083333333) (tstamp 2c48dff5-b3c3-4ac1-b2b6-b8b660f4e129))
+    (pad "MP" smd roundrect locked (at 2.8 -1.875 270) (size 1.2 1.8) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2083333333) (tstamp b6354f0e-05a3-431f-8609-adc74c5a5903))
     (model "${KISYS3DMOD}/Connector_JST.3dshapes/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
