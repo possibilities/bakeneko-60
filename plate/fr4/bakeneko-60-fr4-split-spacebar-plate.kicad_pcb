@@ -684,6 +684,12 @@
   (gr_line (start 10.723749 129.880001) (end 23.723749 129.880001) (layer "Edge.Cuts") (width 0.2) (tstamp ffa93396-1e02-4cf4-81d7-d58d4dc3d83c))
   (gr_arc (start 169.767499 73.230001) (mid 169.913946 72.876448) (end 170.267499 72.730001) (layer "Edge.Cuts") (width 0.2) (tstamp ffb411d8-b476-4883-abb0-c2f3d7d8fa10))
   (gr_arc (start 188.529999 105.280001) (mid 188.383552 105.633554) (end 188.029999 105.780001) (layer "Edge.Cuts") (width 0.2) (tstamp fff93175-bafd-4f34-ae0e-78aba8b2e1a9))
+  (gr_text "This Is Not A Plate" (at 138.8 88.31) (layer "F.SilkS") (tstamp ce513be5-314f-4c8a-b67c-995b4d660942)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "Unbakeneko v0.1" (at 138.51 71.28) (layer "F.SilkS") (tstamp d684b765-f5c2-4f33-ae67-80a66e1e6291)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
 
   (via (at 268.355499 80.280001) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 0) (tstamp 1c1337be-ae40-4fe6-898a-bf9729788629))
 
