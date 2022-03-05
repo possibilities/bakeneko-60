@@ -1,17 +1,13 @@
 This fork adds PCB and plate support for a split spacebar to the [Bakeneko 60](https://github.com/kkatano/bakeneko-60). The split spacebar layouts are copied from the [DZ60 PCB](https://kbdfans.com/products/dz60-60-pcb).
 
 
-#### Bottom row layouts
+#### Layout
 
 ![image](layout.png)
 
-#### Left split spacebar layout plate
+#### Plate
 
-![image](plate-left-split.png)
-
-#### Right split spacebar layout plate
-
-![image](plate-right-split.png)
+![image](plate.png)
 
 # Bakeneko 60 V3
 
