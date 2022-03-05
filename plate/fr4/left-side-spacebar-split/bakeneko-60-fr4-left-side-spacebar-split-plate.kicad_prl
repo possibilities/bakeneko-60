@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 44,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -67,7 +67,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "bakeneko-60-fr4-plate.kicad_prl",
+    "filename": "bakeneko-60-fr4-left-side-spacebar-split-plate.kicad_prl",
     "version": 3
   },
   "project": {
